@@ -19,4 +19,4 @@
 3. Космопорт «Черезтерновый Кзвёздный»
 4. Дизайн-студия имени Слишком Известного Персонажа
 
-[Нас можно найти в](https://www.google.com/webhp?hl=ru&sa=X&ved=0ahUKEwi73Pi2uuX9AhWHlIsKHetrAy0QPAgI)
+Нас можно найти в [google.com](https://www.google.com/webhp?hl=ru&sa=X&ved=0ahUKEwi73Pi2uuX9AhWHlIsKHetrAy0QPAgI)
